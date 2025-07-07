@@ -1,7 +1,7 @@
 //  Add two numbers
 
 let sum = (a, b) => {
-    constc = a + b;
+    const c = a + b;
     return c;
 }
 
